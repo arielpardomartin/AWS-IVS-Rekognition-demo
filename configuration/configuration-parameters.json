@@ -1,0 +1,5 @@
+{
+    "debugConfidenceThreshold": 85,
+    "displayConfidenceThreshold": 95,
+    "maxConcurrentBoxes": 10
+}

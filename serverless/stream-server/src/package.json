@@ -1,0 +1,15 @@
+{
+  "name": "validation-server",
+  "version": "1.0.0",
+  "description": "Stream key validation server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1036.0",
+    "express": "^4.17.1"
+  }
+}

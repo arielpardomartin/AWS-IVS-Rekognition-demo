@@ -1,0 +1,33 @@
+.player-settings {
+  display: flex;
+  flex-direction: column;
+}
+
+.player-settings-title-container {
+  margin-bottom: 10px 5px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.player-settings-options-container {
+  padding: 10px 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.player-settings-option {
+  margin-top: 2px;
+  cursor: pointer;
+  font-weight: 450;
+  font-size: 16px;
+}
+
+.player-settings-option-checkbox {
+  margin-right: 4px;
+}
+
+.player-settings-close-button {
+  margin-right: 5px;
+}
